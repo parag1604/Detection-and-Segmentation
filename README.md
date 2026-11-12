@@ -6,7 +6,7 @@ Code for three computer-vision tasks of increasing detail on the Oxford-IIIT Pet
 
 ## Theory
 
-Lecture notes for this topic are coming soon on https://parag1604.github.io/notes
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Applications-of-Neural-Networks) (sections "Convolutional neural networks", "Object localization and detection" and "Segmentation")
 
 ## Python Environment Setup
 
